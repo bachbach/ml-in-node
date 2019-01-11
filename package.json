@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "csvtojson": "^2.0.8",
+    "ml-regression": "^4.4.2"
+  }
+}
